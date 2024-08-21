@@ -1,4 +1,4 @@
-Blog: https://bricechivu.github.io/bricetravels/
+Blog: https://bricechivu.github.io/bricetravels-test/
 
 #### Adding new images procedure
 1. Download images on Google photos
